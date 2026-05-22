@@ -1,0 +1,324 @@
+[
+    {
+        "chunk_id": "chunk_0",
+        "page": 1,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 0,
+        "content": "Internal  Support  Documentation  —  Clay  \nBank\n \nBank  Overview  \nClay  Bank  is  a  digital  financial  institution  focused  on  convenience,  security,  and  omnichannel  \ncustomer\n \nexperience.\n \n \nThis\n \ndocumentation\n \nserves\n \nas\n \na\n \nknowledge\n \nbase\n \nfor\n \nvirtual\n \nassistants,"
+    },
+    {
+        "chunk_id": "chunk_1",
+        "page": 1,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 204,
+        "content": "This\n \ndocumentation\n \nserves\n \nas\n \na\n \nknowledge\n \nbase\n \nfor\n \nvirtual\n \nassistants,\n \nsupport\n \nagents,\n \nand\n \nautomated\n \ncustomer\n \nservice\n \nsystems.\n \n \nProduct  Index"
+    },
+    {
+        "chunk_id": "chunk_2",
+        "page": 1,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 294,
+        "content": "support\n \nagents,\n \nand\n \nautomated\n \ncustomer\n \nservice\n \nsystems.\n \n \nProduct  Index  \n1.  Clay  Digital  Account  2.  Clay  Platinum  Credit  Card  3.  Flex  Personal  Loan  4.  Clay+  Investments  5.  Total  Protection  Insurance  \n \n1.  Clay  Digital  Account  \nCommercial  Name"
+    },
+    {
+        "chunk_id": "chunk_3",
+        "page": 1,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 532,
+        "content": "1.  Clay  Digital  Account  \nCommercial  Name  \nClay  Digital  Account  \nDescription  \nA  fee-free  digital  checking  account  designed  for  individuals,  with  a  fully  online  onboarding  \nprocess.\n \nTarget  Audience"
+    },
+    {
+        "chunk_id": "chunk_4",
+        "page": 1,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 726,
+        "content": "process.\n \nTarget  Audience  \n●  Individuals  over  18  years  old  ●  Customers  seeking  digital  banking  services  ●  Users  who  frequently  use  instant  payments  and  bill  payments"
+    },
+    {
+        "chunk_id": "chunk_5",
+        "page": 2,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 0,
+        "content": "Main  Benefits  \n●  No  maintenance  fees  ●  Unlimited  free  instant  transfers  ●  Instant  virtual  card  issuance  ●  ATM  withdrawals  ●  Financial  management  through  the  app  ●  24/7  chat  support  \nFeatures  \nTransfers"
+    },
+    {
+        "chunk_id": "chunk_6",
+        "page": 2,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 211,
+        "content": "Features  \nTransfers  \n●  Instant  Transfers:  unlimited  ●  Bank  Transfers:  free  up  to  5  per  month  ●  Between  Clay  accounts:  unlimited  \nPayments  \n●  Utility  bills  ●  Invoices  ●  Taxes  ●  Mobile  top-ups  \nCards  \n●  Physical  card  ●  Virtual  card  ●  In-app  card  lock/unlock"
+    },
+    {
+        "chunk_id": "chunk_7",
+        "page": 2,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 434,
+        "content": "Cards  \n●  Physical  card  ●  Virtual  card  ●  In-app  card  lock/unlock  \nEligibility  Rules  \n●  Valid  tax  identification  number  ●  Government-issued  photo  ID  ●  Facial  biometric  verification  \nLimits  \nType  Limit  \nDaytime  instant  transfer  $20,000/day"
+    },
+    {
+        "chunk_id": "chunk_8",
+        "page": 2,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 640,
+        "content": "Limits  \nType  Limit  \nDaytime  instant  transfer  $20,000/day  \nNighttime  instant  transfer  $1,000/day  \nWithdrawal  $3,000/day"
+    },
+    {
+        "chunk_id": "chunk_9",
+        "page": 3,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 0,
+        "content": "Fees  \nService  Amount  \nMaintenance  Free  \nReplacement  card  $14.90  \nDomestic  withdrawal  $7.50  \nFrequently  Asked  Questions  \n“Does  the  account  have  a  monthly  fee?”  \nNo.  The  Clay  Digital  Account  is  free  of  charge.  \n“Can  I  receive  my  salary  in  this  account?”"
+    },
+    {
+        "chunk_id": "chunk_10",
+        "page": 3,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 239,
+        "content": "“Can  I  receive  my  salary  in  this  account?”  \nYes.  Salary  portability  is  supported.  \n“How  long  does  account  opening  take?”  \nUsually  between  5  and  15  minutes  after  data  validation.  \nCustomer  Service  Scripts  \nCustomer  wants  to  open  an  account"
+    },
+    {
+        "chunk_id": "chunk_11",
+        "page": 3,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 446,
+        "content": "Customer  Service  Scripts  \nCustomer  wants  to  open  an  account  \n“I  can  help  you  open  your  Clay  Digital  Account.  The  process  is  fully  online  and  \nonly\n \ntakes\n \na\n \nfew\n \nminutes.”\n \nCustomer  with  blocked  account"
+    },
+    {
+        "chunk_id": "chunk_12",
+        "page": 3,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 612,
+        "content": "only\n \ntakes\n \na\n \nfew\n \nminutes.”\n \nCustomer  with  blocked  account  \n“I’ll  check  the  reason  for  the  restriction.  In  some  cases,  additional  document  \nverification\n \nmay\n \nbe\n \nrequired\n \nfor\n \nsecurity\n \npurposes.”\n \n \n2.  Clay  Platinum  Credit  Card  \nCommercial  Name"
+    },
+    {
+        "chunk_id": "chunk_13",
+        "page": 3,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 802,
+        "content": "required\n \nfor\n \nsecurity\n \npurposes.”\n \n \n2.  Clay  Platinum  Credit  Card  \nCommercial  Name  \nClay  Platinum"
+    },
+    {
+        "chunk_id": "chunk_14",
+        "page": 4,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 0,
+        "content": "Description  \nAn  international  credit  card  with  rewards  points  and  premium  benefits.  \nCard  Network  \nVisa  Platinum  \nBenefits  \n●  Cashback  on  purchases  ●  Rewards  program  ●  Travel  insurance  ●  Partner  lounge  access  ●  Flexible  installment  payments  \nCashback"
+    },
+    {
+        "chunk_id": "chunk_15",
+        "page": 4,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 276,
+        "content": "Cashback  \nCategory  Cashback  \nGeneral  purchases  \n1%  \nStreaming  services  \n2%  \nTravel  purchases  3%  \nRewards  Program  \n●  1  point  per  dollar  spent  ●  Points  expire  after  24  months  \nCredit  Limit  \nDefined  based  on:"
+    },
+    {
+        "chunk_id": "chunk_16",
+        "page": 4,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 476,
+        "content": "Credit  Limit  \nDefined  based  on:  \n●  Internal  credit  score  ●  Income  ●  Payment  history  ●  Banking  relationship  \nFees"
+    },
+    {
+        "chunk_id": "chunk_17",
+        "page": 5,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 0,
+        "content": "Service  Amount  \nAnnual  fee  $49/month  \nCredit  withdrawal  9.9%  \nRevolving  interest  14.5%  monthly  \nCredit  Limit  Increase  Rules  \nCustomers  may  request  a  review  after:  \n●  3  invoices  paid  on  time  ●  Usage  above  40%  of  the  limit  ●  Income  update  \nCommon  Situations"
+    },
+    {
+        "chunk_id": "chunk_18",
+        "page": 5,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 276,
+        "content": "Common  Situations  \nDeclined  purchase  \nPossible  reasons:  \n●  Insufficient  limit  ●  Preventive  block  ●  Fraud  suspicion  ●  Expired  card  \nPurchase  dispute  \nDeadline:  \n●  Up  to  90  days  after  transaction  posting  \nCustomer  Service  Scripts  \nCustomer  requests  higher  limit"
+    },
+    {
+        "chunk_id": "chunk_19",
+        "page": 5,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 508,
+        "content": "Customer  Service  Scripts  \nCustomer  requests  higher  limit  \n“I’ll  check  your  eligibility  for  a  credit  limit  increase  based  on  your  recent  account  \nhistory.”\n \nCustomer  reports  unauthorized  purchase"
+    },
+    {
+        "chunk_id": "chunk_20",
+        "page": 5,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 674,
+        "content": "history.”\n \nCustomer  reports  unauthorized  purchase  \n“I  understand  your  concern.  Let’s  start  the  dispute  process  and  secure  your  card  \nimmediately.”"
+    },
+    {
+        "chunk_id": "chunk_21",
+        "page": 6,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 0,
+        "content": "3.  Flex  Personal  Loan  \nCommercial  Name  \nFlex  Personal  Credit  \nDescription  \nA  personal  loan  product  with  digital  contracting  and  fast  disbursement.  \nAvailable  Amounts  \n●  Minimum:  $500  ●  Maximum:  $80,000  \nInstallment  Terms  \n●  6  to  48  months  \nInterest  Rates"
+    },
+    {
+        "chunk_id": "chunk_22",
+        "page": 6,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 231,
+        "content": "Installment  Terms  \n●  6  to  48  months  \nInterest  Rates  \n●  Starting  at  1.49%  per  month  ●  Total  effective  cost  disclosed  before  contracting  \nApproval  Criteria  \n●  Internal  score  ●  Financial  history  ●  Verified  income  ●  Relationship  with  the  bank  \nDisbursement"
+    },
+    {
+        "chunk_id": "chunk_23",
+        "page": 6,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 509,
+        "content": "Disbursement  \n●  Up  to  2  hours  after  approval  \nEarly  Repayment  \nAllowed  with  proportional  discount  on  future  interest.  \nDelinquency"
+    },
+    {
+        "chunk_id": "chunk_24",
+        "page": 7,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 0,
+        "content": "Consequences  \n●  2%  penalty  fee  ●  Late  payment  interest  ●  Credit  bureau  reporting  \nRenegotiation  \nAvailable  for  customers:  \n●  With  delays  longer  than  15  days  ●  Without  fraud  indicators  \nFrequently  Asked  Questions  \n“Can  I  pay  off  the  loan  early?”"
+    },
+    {
+        "chunk_id": "chunk_25",
+        "page": 7,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 213,
+        "content": "Frequently  Asked  Questions  \n“Can  I  pay  off  the  loan  early?”  \nYes.  Future  interest  discounts  apply.  \n“When  will  I  receive  the  funds?”  \nAfter  approval  and  electronic  contract  signing.  \nCustomer  Service  Scripts  \nCustomer  requests  simulation"
+    },
+    {
+        "chunk_id": "chunk_26",
+        "page": 7,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 423,
+        "content": "Customer  Service  Scripts  \nCustomer  requests  simulation  \n“I  can  help  you  with  a  personalized  simulation.  Please  provide  the  desired  \namount\n \nand\n \ninstallment\n \nterm.”\n \nDelinquent  customer"
+    },
+    {
+        "chunk_id": "chunk_27",
+        "page": 7,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 573,
+        "content": "amount\n \nand\n \ninstallment\n \nterm.”\n \nDelinquent  customer  \n“I  can  check  available  renegotiation  options  to  help  regularize  your  contract.”  \n \n4.  Clay+  Investments  \nCommercial  Name  \nClay+  Investments  \nDescription"
+    },
+    {
+        "chunk_id": "chunk_28",
+        "page": 8,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 0,
+        "content": "An  investment  platform  integrated  into  the  banking  app.  \nAvailable  Products  \n●  Certificates  of  Deposit  ●  Government  Bonds  ●  Investment  Funds  ●  Stocks  ●  ETFs  \nInvestor  Profile  Categories  \n●  Conservative  ●  Moderate  ●  Aggressive  \nReturns"
+    },
+    {
+        "chunk_id": "chunk_29",
+        "page": 8,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 182,
+        "content": "Investor  Profile  Categories  \n●  Conservative  ●  Moderate  ●  Aggressive  \nReturns  \nVariable  according  to  the  selected  investment  product.  \nLiquidity  \nProduct  Liquidity  \nDaily  liquidity  deposit  Same  day  \nGovernment  bonds  Next  business  day  \nFunds  1  to  30  business  days"
+    },
+    {
+        "chunk_id": "chunk_30",
+        "page": 8,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 405,
+        "content": "Government  bonds  Next  business  day  \nFunds  1  to  30  business  days  \nFees  \nProduct  Fee  \nGovernment  bonds  \nNo  custody  fee  \nFunds  According  to  prospectus  \nStocks  Zero  brokerage  \nSuitability  Assessment"
+    },
+    {
+        "chunk_id": "chunk_31",
+        "page": 9,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 0,
+        "content": "Mandatory  before  the  first  investment.  \nSecurity  Rules  \n●  Biometric  confirmation  ●  Transaction  token  ●  Two-factor  authentication  \nFrequently  Asked  Questions  \n“Is  there  risk  involved?”  \nYes.  Every  investment  carries  some  level  of  risk.  \n“Can  I  redeem  anytime?”"
+    },
+    {
+        "chunk_id": "chunk_32",
+        "page": 9,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 208,
+        "content": "Yes.  Every  investment  carries  some  level  of  risk.  \n“Can  I  redeem  anytime?”  \nIt  depends  on  the  liquidity  rules  of  the  selected  product.  \nCustomer  Service  Scripts  \nBeginner  investor  \n“I  can  help  you  find  investments  that  match  your  investor  profile.”"
+    },
+    {
+        "chunk_id": "chunk_33",
+        "page": 9,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 416,
+        "content": "“I  can  help  you  find  investments  that  match  your  investor  profile.”  \nCustomer  worried  about  losses  \n“Investment  returns  may  fluctuate  according  to  market  conditions.  I  can  explain  \nthe\n \nrisks\n \nand\n \navailable\n \nalternatives.”\n \n \n5.  Total  Protection  Insurance"
+    },
+    {
+        "chunk_id": "chunk_34",
+        "page": 9,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 623,
+        "content": "the\n \nrisks\n \nand\n \navailable\n \nalternatives.”\n \n \n5.  Total  Protection  Insurance  \nCommercial  Name  \nClay  Total  Protection  \nDescription  \nInsurance  product  with  financial  and  personal  protection  coverage.  \nCoverage"
+    },
+    {
+        "chunk_id": "chunk_35",
+        "page": 10,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 0,
+        "content": "●  Theft  and  robbery  ●  Income  protection  ●  Home  assistance  ●  Instant  payment  protection  ●  Mobile  phone  insurance  \nPlans  \nPlan  Price  \nEssential  $19.90/month  \nPlus  $39.90/month  \nPremium  $69.90/month  \nWaiting  Period  \nCoverage  Waiting  Period  \nTheft/robbery  7  days"
+    },
+    {
+        "chunk_id": "chunk_36",
+        "page": 10,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 200,
+        "content": "Premium  $69.90/month  \nWaiting  Period  \nCoverage  Waiting  Period  \nTheft/robbery  7  days  \nIncome  protection  30  days  \nClaims  Process  \nClaims  may  be  initiated:  \n●  Through  the  app  ●  By  phone  support  ●  Via  chat  \nRequired  Documents"
+    },
+    {
+        "chunk_id": "chunk_37",
+        "page": 10,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 374,
+        "content": "●  Through  the  app  ●  By  phone  support  ●  Via  chat  \nRequired  Documents  \n●  Police  report  ●  Personal  identification  ●  Event  supporting  documents  \nExclusions  \nDoes  not  cover:  \n●  Intentional  fraud  ●  Password  sharing  ●  Illegal  acts  committed  by  the  insured  customer"
+    },
+    {
+        "chunk_id": "chunk_38",
+        "page": 11,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 0,
+        "content": "Customer  Service  Scripts  \nCustomer  wants  to  file  a  claim  \n“I’ll  guide  you  through  the  claims  process  and  document  submission  \nrequirements.”\n \nCustomer  wants  to  cancel  \n“I  can  check  the  cancellation  conditions  for  your  plan.”  \n \nGeneral  Customer  Service  Policies"
+    },
+    {
+        "chunk_id": "chunk_39",
+        "page": 11,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 261,
+        "content": "General  Customer  Service  Policies  \nSecurity  \nNever  request:  \n●  Full  password  ●  CVV  code  ●  Full  security  token  ●  Card  PIN  \nAllowed  requests:  \n●  Last  4  digits  of  the  card  ●  Partial  tax  ID  ●  Date  of  birth  \n \nAuthentication  Flow  \nLevel  1"
+    },
+    {
+        "chunk_id": "chunk_40",
+        "page": 11,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 503,
+        "content": "Authentication  Flow  \nLevel  1  \n●  Full  name  ●  Partial  tax  ID  \nLevel  2  \n●  SMS  OTP"
+    },
+    {
+        "chunk_id": "chunk_41",
+        "page": 12,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 0,
+        "content": "●  Facial  biometrics  \nLevel  3  \n●  Transaction  token  ●  In-app  confirmation  \n \nCommunication  Guidelines  \nTone  of  Voice  \n●  Clear  ●  Objective  ●  Polite  ●  Human-centered  \nRecommended  Phrases"
+    },
+    {
+        "chunk_id": "chunk_42",
+        "page": 12,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 114,
+        "content": "Tone  of  Voice  \n●  Clear  ●  Objective  ●  Polite  ●  Human-centered  \nRecommended  Phrases  \n●  “I’ll  check  this  for  you.”  ●  “I  understand  your  request.”  ●  “I  can  help  you  with  that  information.”  \nForbidden  Phrases"
+    },
+    {
+        "chunk_id": "chunk_43",
+        "page": 12,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 332,
+        "content": "Forbidden  Phrases  \n●  “That’s  not  my  problem.”  ●  “You  need  to  wait.”  ●  “There’s  nothing  I  can  do.”  \n \nIncident  Handling  \nFraud  Suspicion  \n1.  Block  the  card  2.  End  active  sessions  3.  Validate  customer  identity  4.  Open  an  anti-fraud  protocol"
+    },
+    {
+        "chunk_id": "chunk_44",
+        "page": 13,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 0,
+        "content": "System  Instability  \nStandard  message:  \n“We  are  currently  experiencing  a  temporary  instability.  Our  team  is  already  \nworking\n \nto\n \nrestore\n \nthe\n \nservice.”\n \n \nCustomer  Service  SLA  \nChannel  Average  Response  Time  \nChat  up  to  3  min  \nWhatsApp  up  to  5  min"
+    },
+    {
+        "chunk_id": "chunk_45",
+        "page": 13,
+        "source": "Clay Bank - Documentation.pdf",
+        "start_index": 201,
+        "content": "Channel  Average  Response  Time  \nChat  up  to  3  min  \nWhatsApp  up  to  5  min  \nEmail  up  to  24h  \nPhone  up  to  2  min   \nStandard  Closing  Message  \n“Thank  you  for  contacting  Clay  Bank.  If  you  need  any  additional  information,  I’m  \nhere\n \nto\n \nhelp.”"
+    }
+]
